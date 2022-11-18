@@ -46,7 +46,7 @@
 #include <driver/ledc.h>
 #include "Blinker.h"
 
-#define DEFAULT_PWM_FREQ     5000
+#define DEFAULT_PWM_FREQ     1000000
 
 /////////////////////////////////////
 
